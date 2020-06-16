@@ -1,0 +1,17 @@
+{
+    "name": "simplon/poo-semaine1",
+    "license": "CCO-1.1",
+    "authors": [
+        {
+            "name": "Najat Filali",
+            "email": "filali_najat@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"src/"
+        }
+    }
+
+}
